@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Primer Desafío Practico</string>
+    <string name="formula_cuadratica">Formula Cuadratica</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="formula_cuadratica_description">imagen de formula cuadratica</string>
+    <string name="c">c</string>
+    <string name="calcular">Calcular</string>
+</resources>

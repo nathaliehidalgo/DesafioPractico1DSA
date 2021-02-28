@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tercer Desafio Practico</string>
+    <string name="calcular">Calcular</string>
+    <string name="informacion_empleado_1">Informacion Empleado 1</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="cargo">Cargo:</string>
+    <string name="horas_trabajadas_en_el_mes">Horas trabajadas en el mes</string>
+    <string name="informacion_empleado_2">Informacion Empleado 2</string>
+    <string name="informacion_empleado_3">Informacion Empleado 3</string>
+    <string name="horas_validacion_texto">Las horas trabajadas no pueden ser Cero o Negativas</string>
+</resources>
